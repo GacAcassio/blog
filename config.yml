@@ -1,7 +1,6 @@
 baseURL: "https://asafe.acassio.xyz/"
 title: ExampleSite
 paginate: 5
-theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
