@@ -38,10 +38,6 @@ name = "Tags"
 url = "tags/"
 weight = 10
 
-[[languages.en.menu.main]]
-name = "WiKi"
-url = "https://github.com/adityatelange/hugo-PaperMod/wiki/"
-
 [languages.fr]
 languageName = ":fr:"
 weight = 2
