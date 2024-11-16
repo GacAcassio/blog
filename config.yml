@@ -1,5 +1,5 @@
-baseURL: "https://asafe.acassio.xyz/"
-title: ExampleSite
+baseURL: "https://acassio.xyz/"
+title: Acassio
 paginate: 5
 
 enableRobotsTXT: true
