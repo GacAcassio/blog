@@ -2,7 +2,6 @@ baseURL = "https://acassio.xyz/"
 title = "PaperMod"
 copyright = "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate = 5
-theme = [ "hugo-PaperMod" ]
 enableInlineShortcodes = true
 enableRobotsTXT = true
 buildDrafts = false
