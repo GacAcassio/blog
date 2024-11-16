@@ -1,4 +1,4 @@
-baseURL = "https://hugo-paper.vercel.app/"
+baseURL = "https://acassio.xyz/"
 # title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "© 2024, lee.so"
@@ -11,7 +11,7 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-title = "Paper"
+title = "Acassio"
 
 [params]
   color = 'linen'
@@ -20,8 +20,8 @@ title = "Paper"
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
 
-avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
+avatar = 'gabriel.acassio.correia@gmail.com'
+  name = 'Gabriel'
   bio = 'Discover fresh context'
 # ------------------------------
 
