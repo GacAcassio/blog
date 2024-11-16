@@ -1,122 +1,73 @@
 baseURL = "https://acassio.xyz/"
-title = "PaperMod"
-copyright = "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
-paginate = 5
-enableInlineShortcodes = true
-enableRobotsTXT = true
-buildDrafts = false
-buildFuture = false
-buildExpired = false
-enableEmoji = true
-pygmentsUseClasses = true
-mainsections = [ "posts", "papermod" ]
+# title = "Hugo Themes"
+author = "Steve Francia"
+copyright = "© 2024, lee.so"
+@@ -11,7 +11,7 @@
+ignoreErrors = ["error-remote-getjson"]
 
-[minify]
-disableXML = true
-
-[languages.en]
-languageName = "English"
-weight = 1
-
-  [languages.en.taxonomies]
-  category = "categories"
-  tag = "tags"
-  series = "series"
-
-[[languages.en.menu.main]]
-name = "Archive"
-url = "archives"
-weight = 5
-
-[[languages.en.menu.main]]
-name = "Search"
-url = "search/"
-weight = 10
-
-[[languages.en.menu.main]]
-name = "Tags"
-url = "tags/"
-weight = 10
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
+# ------------------------------
+title = "Acassio"
 
 [params]
-env = "production"
-description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-author = "Theme PaperMod"
-defaultTheme = "auto"
-ShowShareButtons = true
-ShowReadingTime = true
-displayFullLangName = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = true
-ShowRssButtonInSectionTermList = true
-ShowAllPagesInArchive = true
-ShowPageNums = true
-ShowToc = true
-images = [ "images/papermod-cover.png" ]
+  color = 'linen'
+@@ -20,60 +20,60 @@
+  github = 'nanxiaobei'
+  instagram = 'nan.xiaobei'
 
-  [params.profileMode]
-  enabled = false
-  title = "PaperMod"
-  imageUrl = "#"
-  imageTitle = "my image"
+avatar = 'gabriel.acassio.correia@gmail.com'
+  name = 'Gabriel'
+  bio = 'Discover fresh context'
+# ------------------------------
 
-    [[params.profileMode.buttons]]
-    name = "Archives"
-    url = "archives"
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+#  [markup.highlight]
+#    lineNos = true
 
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
+[menu]
 
-  [params.homeInfoParams]
-  Title = "PaperMod's Demo"
-  Content = """
-👋 Welcome to demo page of Hugo's theme PaperMod!
-- **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-- Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-- PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
-"""
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
 
-  [[params.socialIcons]]
-  name = "github"
-  title = "View Source on Github"
-  url = "https://github.com/adityatelange/hugo-PaperMod"
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
 
-  [[params.socialIcons]]
-  name = "Discord"
-  title = "Join discord community"
-  url = "https://discord.gg/ahpmTvhVmp"
+[privacy]
 
-  [[params.socialIcons]]
-  name = "X"
-  title = "Share PaperMod on X/Twitter"
-  url = "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
+  [privacy.vimeo]
+    disabled = false
+    simple = true
 
-  [[params.socialIcons]]
-  name = "KoFi"
-  title = "Buy me a Ko-Fi :)"
-  url = "https://ko-fi.com/adityatelange"
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
 
-  [params.editPost]
-  URL = "https://github.com/GacAcassio/blog/tree/master/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
+  [privacy.instagram]
+    disabled = false
+    simple = true
 
-  [params.assets]
-  disableHLJS = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
 
-[markup.goldmark.renderer]
-unsafe = true
+[services]
 
-[markup.highlight]
-noClasses = false
+  [services.instagram]
+    disableInlineCSS = true
 
-[services.instagram]
-disableInlineCSS = true
-
-[services.twitter]
-disableInlineCSS = true
+  [services.twitter]
+    disableInlineCSS = tru
