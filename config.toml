@@ -102,7 +102,7 @@ images = [ "images/papermod-cover.png" ]
   url = "https://ko-fi.com/adityatelange"
 
   [params.editPost]
-  URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+  URL = "https://github.com/GacAcassio/blog/tree/master/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
