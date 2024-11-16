@@ -2,7 +2,6 @@ baseURL = "https://acassio.xyz/"
 # title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "© 2024, lee.so"
-@@ -11,7 +11,7 @@
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
@@ -10,7 +9,6 @@ title = "Acassio"
 
 [params]
   color = 'linen'
-@@ -20,60 +20,60 @@
   github = 'nanxiaobei'
   instagram = 'nan.xiaobei'
 
