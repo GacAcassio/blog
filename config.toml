@@ -72,6 +72,7 @@ avatar = 'gabriel.acassio.correia@gmail.com'
     name = "About"
     url = "/about/"
     weight = 10
+    
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
@@ -79,16 +80,19 @@ avatar = 'gabriel.acassio.correia@gmail.com'
     weight = 10
 
   [[menu.main]]
+    identifier = "Archive"
     name = "Archive"
     url = "archives"
     weight = 5
     
 [[menu.main]]
+  identifier = "Search"
   name = "Search"
   url = "search/"
   weight = 10
 
-[[languages.en.menu.main]]
+[[menu.main]]
+  identifier = "Tags"
   name = "Tags"
   url = "tags/"
   weight = 10
