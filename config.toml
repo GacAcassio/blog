@@ -9,7 +9,7 @@ title = "Acassio"
 
 [params]
   env = "production"
-  description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description = "Acassio's blog"
   author = "Theme PaperMod"
   defaultTheme = "auto"
   ShowShareButtons = false
