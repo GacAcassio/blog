@@ -10,7 +10,7 @@ title = "Acassio"
 [params]
   env = "production"
   description = "Acassio's blog"
-  author = "Theme PaperMod"
+  author = "G4b0"
   defaultTheme = "auto"
   ShowShareButtons = false
   ShowReadingTime = true
@@ -24,7 +24,7 @@ title = "Acassio"
   ShowToc = true
 
 avatar = 'gabriel.acassio.correia@gmail.com'
-  name = 'Gabriel'
+  name = 'G4b0'
   bio = 'Discover fresh context'
 # ------------------------------
 
