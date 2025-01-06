@@ -12,7 +12,7 @@ title = "Acassio"
   description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   author = "Theme PaperMod"
   defaultTheme = "auto"
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowReadingTime = true
   displayFullLangName = true
   ShowPostNavLinks = true
@@ -51,6 +51,11 @@ avatar = 'gabriel.acassio.correia@gmail.com'
   name = "Instagram"
   title = "See me on intsagrram :)"
   url = "https://www.instagram.com/gab_acassio/"
+
+  [[params.socialIcons]]
+  name = "Linkedin"
+  title = "See me on Linkedin. :)"
+  url = "https://www.linkedin.com/in/gabriel-acassio-correia-581887197/"
   
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
