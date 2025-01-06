@@ -29,33 +29,28 @@ avatar = 'gabriel.acassio.correia@gmail.com'
 # ------------------------------
 
 [params.homeInfoParams]
-  Title = "PaperMod's Demo"
+  Title = "Acassios's Page"
   Content = """
-👋 Welcome to demo page of Hugo's theme PaperMod!
-- **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-- Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-- PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+ Welcome to my page :)
+- Here, I share insights and experiences that span across my technical expertise, professional journey, academic pursuits, and personal interests.
+- Whether you're here to explore innovative ideas, learn about my projects, or simply get to know me better, I hope you find something that sparks your curiosity.
+- (^_^)
 """
 
   [[params.socialIcons]]
   name = "github"
-  title = "View Source on Github"
-  url = "https://github.com/adityatelange/hugo-PaperMod"
-
-  [[params.socialIcons]]
-  name = "Discord"
-  title = "Join discord community"
-  url = "https://discord.gg/ahpmTvhVmp"
+  title = "View my Github"
+  url = "https://github.com/GacAcassio"
 
   [[params.socialIcons]]
   name = "X"
-  title = "Share PaperMod on X/Twitter"
-  url = "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
+  title = "My x"
+  url = "https://x.com/Sh4m31k4"
 
   [[params.socialIcons]]
-  name = "KoFi"
-  title = "Buy me a Ko-Fi :)"
-  url = "https://ko-fi.com/adityatelange"
+  name = "Instagram"
+  title = "See me on intsagrram :)"
+  url = "https://www.instagram.com/gab_acassio/"
   
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
