@@ -1,25 +1,50 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+title = "About me"
+description = A few info about me✨"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
+aliases = ["about-us"]
+author = "G4b0"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Born n raised in a small village in Brazil's countryside (Apareceida do Leste - Mato Grosso), I've been since child an odd and curious soul. Growing up in such small and limited environment has given to me the perception that there is always something more to explore and expand my own boundaries. When teenager I moved to a relatively big city (not big to the world, but giant to me), there I lived just with my older brother to attend to highschool. Even far from my parents and home, it was a good decision and made me able to study on a high standart instituition. At the moment i am finishing my degree in Computer Science, in the state's capital and further from home. The future may lead me to a greater place, or back home. 
 
-Hugo makes use of a variety of open source projects including:
+Here goes a summary of my resume:
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+## Education
+- **Bachelor's in Computer Science**  
+  *2021 - Ongoing*: Federal University of Mato Grosso, Brazil.  
+- **Electromechanical Technician**  
+  *2018 - 2020*: Federal Institute of Education, Science, and Technology - IFMT, Brazil.  
+- **Certifications**:
+  - **CS50 Introduction to Computer Science** (2023): Harvard University.
+  - **C++ Programming Essentials** (2023): IBM.
+  -  **Cloudflare Accredited Configuration Engineer (ACE)** (2024): Cloudflare.
+  - **Academic Internship in Computer Science** (2024): Universidad Católica San Pablo, Peru.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Work Experience
+- **Cybersecurity Internship** (*2023 - Ongoing*): NTSEC  
+  Focused on tools like Cloudflare and Checkpoint.  
+- **Scientific Researcher** (*2022 - 2024*): Federal University of Mato Grosso  
+  Specialized in Human-Computer Interaction.  
+- **Algorithm Tutor** (*2022 - 2023*): Federal University of Mato Grosso  
+  Mentored students in algorithms.  
+- **Graphic Designer** (*2021*): Tangará Cartuchos  
+  Created graphic materials using Adobe Photoshop and CorelDRAW.  
+- **Tutoring Roles** (*2018 - 2020*): Federal Institute of Education, Science, and Technology - IFMT  
+  - Mathematics, Robotics, Astronomy, and Technical Drawing.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Language Proficiency
+- **Portuguese**: Native.  
+- **English**: C1 (Proficient User).  
+- **Spanish**: C1 (Proficient User).
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Achievements
+- **Robotics**:
+  - Gold Medals at the Brazilian Robotics Olympiad (2019).
+  - Innovation Award at the Brazilian Robotics Olympiad (2018).
+- **Mathematics**:
+  - Honorable Mentions and Silver Medal at the Brazilian Mathematics Olympiad.
+- **Mathematics**
+  - Bronze Medal at the Brazilian Astronomy Olympiad.
+- **Programming**:
+  - Honorable Mention at the 2022, 2023 and 2024 ICPC South America/Brazil First Phase.
