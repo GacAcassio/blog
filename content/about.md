@@ -1,7 +1,7 @@
 +++
 title = "About me"
 description = A few info about me✨"
-date = "2019-02-28"
+date = "2025-01-01"
 aliases = ["about-us"]
 author = "G4b0"
 +++
