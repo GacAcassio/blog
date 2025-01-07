@@ -44,7 +44,7 @@ Here goes a summary of my resume:
   - Innovation Award at the Brazilian Robotics Olympiad (2018).
 - **Mathematics**:
   - Honorable Mentions and Silver Medal at the Brazilian Mathematics Olympiad.
-- **Mathematics**
+- **Astronomy**
   - Bronze Medal at the Brazilian Astronomy Olympiad.
 - **Programming**:
   - Honorable Mention at the 2022, 2023 and 2024 ICPC South America/Brazil First Phase.
