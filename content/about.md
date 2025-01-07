@@ -15,7 +15,7 @@ Here goes a summary of my resume:
   *2021 - Ongoing*: Federal University of Mato Grosso, Brazil.  
 - **Electromechanical Technician**  
   *2018 - 2020*: Federal Institute of Education, Science, and Technology - IFMT, Brazil.  
-- **Certifications**:
+- **Others**:
   - **CS50 Introduction to Computer Science** (2023): Harvard University.
   - **C++ Programming Essentials** (2023): IBM.
   -  **Cloudflare Accredited Configuration Engineer (ACE)** (2024): Cloudflare.
