@@ -64,7 +64,7 @@ avatar = 'gabriel.acassio.correia@gmail.com'
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About me"
     url = "/about/"
     weight = 10
     
