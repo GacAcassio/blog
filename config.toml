@@ -43,11 +43,6 @@ avatar = 'gabriel.acassio.correia@gmail.com'
   url = "https://github.com/GacAcassio"
 
   [[params.socialIcons]]
-  name = "X"
-  title = "My x"
-  url = "https://x.com/Sh4m31k4"
-
-  [[params.socialIcons]]
   name = "Instagram"
   title = "See me on intsagrram :)"
   url = "https://www.instagram.com/gab_acassio/"
@@ -84,12 +79,6 @@ avatar = 'gabriel.acassio.correia@gmail.com'
     name = "Archive"
     url = "archives"
     weight = 5
-    
-[[menu.main]]
-  identifier = "Search"
-  name = "Search"
-  url = "search/"
-  weight = 10
 
 [[menu.main]]
   identifier = "Tags"
