@@ -1,7 +1,7 @@
 +++
 author = "G4b0"
 title = "Having a blog"
-date = "2024-10-01"
+date = "2024-12-28"
 description = "Why I decided to have a blog and what i aim with it"
 tags = [
     "personal",
