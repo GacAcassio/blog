@@ -1,7 +1,7 @@
 +++
 author = "G4b0"
 title = "Into my 2025 Goals and Expectations"
-date = "2024-15-01"
+date = "2025-15-01"
 description = "A look at my goals and expections to the new year"
 tags = [
     "personal",
