@@ -1,12 +1,13 @@
 +++
 author = "G4b0"
 title = "Into my 2025 Goals and Expectations"
-date = "2025-14-01"
+date = "2025-01-15"
 description = "A look at my goals and expections to the new year"
 tags = [
     "personal",
 ]
 +++
+
 
 Among all popular Western rituals, setting New Year's goals is certainly one of my favorites and most pleasant. As my imagination is a very active part of me, and projections of how the future may be are a hobby of mine, going through the process of writing down some targets sparks my soul, charging me with genuine energy. Hence, I’ve set a few targets for 2025, considering my experience from the past year and the context ahead of me. It may be a year of major changes: I’m graduating and starting my professional life, with some past questions regarding my path, such as returning to medical school or entering a master’s program. I might move to another city, and I could even try new things abroad. The possibilities are infinite, even if reduced to my reality. It could be easier to understand all of my expectations and challenges as we dive into my goal list for the year.
 
