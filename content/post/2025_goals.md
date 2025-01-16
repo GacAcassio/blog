@@ -79,7 +79,7 @@ While it’s not my intention to make this longer, I do have some other goals th
 - Set weekly tasks  
 - Set monthly tasks  
 - Reduce the use of social media  
-- Become an ML and DS specialist  
+- Become a ML and DS specialist  
 - Volunteer for a project  
 - Donate blood 3 times during the year  
 - Continue adopting minimalism  
