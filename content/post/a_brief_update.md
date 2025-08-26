@@ -1,7 +1,7 @@
 +++ author = "G4b0"
 title = "A Brief Update"
 date = "2025-08-26"
-description = "7 months update :\)"
+description = "7 months update"
 tags = [
 "personal",
 ]
