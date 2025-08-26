@@ -7,6 +7,7 @@ tags = [
     "personal",  
 ]  
 +++
+
 It has a been a long time since I deployed my blog and wrote my two first posts, it was stated in the second of them my desire of keeping continuous posts throughout the year.  As I am writing this text, you may already know that this desire has not come to the light of material world. It is not of my intention to explain why, sometimes you are just not loyal to our goals - to me it happens often. It may be a problem in which I shall dive later. 
 
 Naturally, things has changed in a dramatical plot since the last post, even though they were foreseen and at some point part of my plans. I said that I eventually could move to São Paulo in order to start a master degree at the University of São Paulo, and here I am. Although this was a possibility in January, somehow I couldn’t believe that it would really be my next step until I moved away. I must confess that this got me anxious and a little apprehensive,  thinking of not being able  to take the master and staying in Cuiabá with just my job gave me the overwhelming feeling, and also very personal as this is aligned to my ideals, of nonprogress.
