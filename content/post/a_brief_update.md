@@ -1,12 +1,12 @@
-+++ author = "G4b0"
++++
+author = "G4b0"  
 title = "A Brief Update"
 date = "2025-08-26"
-description = "7 months update"
-tags = [
-"personal",
-]
+description = "7 months update" 
+tags = [  
+    "personal",  
+]  
 +++
-
 It has a been a long time since I deployed my blog and wrote my two first posts, in the last of them I registered my desire of keeping continuous posts.  As I am writing an this post you may already know that this desire has not come to the light of material world. It is not of my intention to explain why, sometimes you are just not loyal to our goals - to me it happens often. It may be a problem in which I shall dive later. 
 
 Naturally, things has changed in a dramatical since the last post, even though they were foreseen and at some point part of my plans. I said that I eventually could move to São Paulo in order to start a master degree at the University of São Paulo, and here I am. Although this was a possibility in January, somehow I couldn’t believe that it would really be my next step until I moved away. I must confess that this got me anxious and a little apprehensive,  thinking of not being able  to take the master and staying in Cuiabá with just my job gave me the overwhelming feeling, and also very personal as this is aligned to my ideals, of nonprogress.
