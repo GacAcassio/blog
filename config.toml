@@ -1,6 +1,6 @@
 baseURL = "https://acassio.xyz/"
 # title = "Hugo Themes"
-author = "Steve Francia"
+author = "Gabriel Acassio Correia"
 copyright = "© 2024, G4b0"
 ignoreErrors = ["error-remote-getjson"]
 
