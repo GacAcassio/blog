@@ -1,4 +1,4 @@
-baseURL = "https://acassio.xyz/"
+y baseURL = "https://acassio.xyz/"
 # title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "© 2024, G4b0"
@@ -33,8 +33,9 @@ avatar = 'gabriel.acassio.correia@gmail.com'
   Content = """
  Welcome to my page :)
 - Here, I share insights and experiences that span across my technical expertise, professional journey, academic pursuits, and personal interests.
-- Whether you're here to explore innovative ideas, learn about my projects, or simply get to know me better, I hope you find something that sparks your curiosity.
-- (^_^)
+- Whether you're here to explore innovative ideas, learn about my projects, or simply get to know me better, I hope you enjoy.
+- Best regards,
+- Gabriel Acassio Correia.
 """
 
   [[params.socialIcons]]
