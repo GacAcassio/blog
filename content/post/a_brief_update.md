@@ -18,4 +18,4 @@ Some episodes perhaps deserve more extensive texts, and they did had this space 
 
 Then, I got graded, I packed and moved. It has been three weeks since I arrived, you may count it as two, cause I passed one of these three weeks in Brasilia. I feel excited and also blessed, it is wonderful that I can study in such a big university and I can experience the biggest metropolis in South America. At the first weekend here I went to see the MASP and Monet, on the following Monday I was having my first class. This is what I have for now. I still fear not being in the right road, and I look, as never before, to find a meaningful life. I miss my family and friends, except for Aline, I forgot to mention she is here with me.
 
-This is, probably, a great summary of lats months. The best is yet to come and will seek it.
+This is, probably, a great summary of last months. The best is yet to come and will seek it.
