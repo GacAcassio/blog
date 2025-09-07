@@ -1,5 +1,5 @@
 +++ author = "G4b0"
-title = "O Sequestro" date = "2025-08-26" description = "Uma crônica recorrente" tags = [
+title = "O Sequestro" date = "2025-09-05" description = "Uma crônica recorrente" tags = [
 "chronicles",
 ]
 +++
