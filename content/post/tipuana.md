@@ -2,9 +2,9 @@
 title = "Tipuana"
 date = "2025-10-20"
 description = "Uma crônica sobre o que vemos e o que podemos ver"
-tags = [
-"personal",
-]
+tags = [  
+    "chronicles",  
+]  
 +++
 
 Estive trabalhando ao ar livre durante a tarde, sentado em um banco localizado em meio aos diversos espaços da universidade. Ao encerrar o dia de trabalho, guardei o notebook na minha costumeira mochila lateral, cinza e austera. Os dois últimos adjetivos combinam com o horizonte de São Paulo que tenho observado nos últimos dias; e incluindo na equação o clima ameno e a luz de fim de dia, a atmosfera era dramática e lúgrube.
